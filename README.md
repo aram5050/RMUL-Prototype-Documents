@@ -8,3 +8,5 @@ See "Prototype network V2.png" for a diagram of the prototypes network.
 See "BOM" for a bill of manufacture on all the componenets purchased for the development of the network. 
 
 See "Power Consumption for Battery" to see the relevant power consumption of the compoenents in the network of the bot. 
+
+See "BLDC_motor_calibration.ino" for a program used to test the motors functionality and toggle their throttles for safety. 
